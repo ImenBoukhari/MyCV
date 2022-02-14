@@ -1,2 +1,2 @@
 # ImenBoukhari-MyCV
-Cv
+Simple code for editing a CV with Python Matplotlib.
